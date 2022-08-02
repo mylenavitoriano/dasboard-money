@@ -1,4 +1,4 @@
-# dashboard-money
+# Money++
 
 Link do projeto: https://dashboard-money.vercel.app/
 Link do protótipo: https://www.figma.com/file/3onJOYw17aFlghczLZxQGB/money-%2B%2B
